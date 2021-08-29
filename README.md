@@ -1,5 +1,6 @@
 # SuperHero-app
 
+![image](https://user-images.githubusercontent.com/82917684/131236757-199bb9d4-f21e-4244-abb5-ac9ab33c30a1.png)
 
 ## Descripcion
 
@@ -7,7 +8,7 @@ SuperHero-app es una aplicación para crear un equipo de superhéroes. Podras cr
 
 
 ## Instalacion
-* Clona este repositorio: `git clone https://github.com/valen2510/superhero-app.git`
+* Clona este repositorio: `git clone https://github.com/Juan-Domingo/Proyecto-Superheroes.git`
 * Accede al directorio superhero-app: `cd superhero-app`
 * Ejecuta el archivo dependencies.sh para instalar todos los paquetes necesarios: `./dependencies.sh`
 * Comienza: `npm start`
