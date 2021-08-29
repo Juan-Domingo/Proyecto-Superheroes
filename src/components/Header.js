@@ -16,7 +16,7 @@ function Header({ setIsAuth }) {
       <div className='navbar-brand'>
         <a
           className='navbar-item'
-          href='https://github.com/Juan-Domingo/'
+          href='https://github.com/Juan-Domingo/Juan-Domingo.github.io.git'
         >
           <img src={logo} width='50'  alt='superhero logo' />
         </a>
